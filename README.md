@@ -63,7 +63,6 @@ Ensure you have the following installed:
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret_key
-   CLOUDINARY_URL=your_cloudinary_api_url
    ```
 5. Start the development servers:
    - Backend:
@@ -108,8 +107,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries, feel free to contact us:
-- Email: info@znainbuilders.com
-- Phone: +1-234-567-890
+- Email: julkar10121@gmail.com
+- Phone: +8801780055645
 
 ---
 
